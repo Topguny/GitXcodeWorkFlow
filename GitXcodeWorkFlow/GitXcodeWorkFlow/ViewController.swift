@@ -24,5 +24,8 @@ class ViewController: UIViewController {
         print("GoodBye World")
     }
 
+    func sayGoodBye(){
+        print("Goodbye")
+    }
 }
 
